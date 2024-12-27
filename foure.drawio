@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="_WiR1FRM0LtRhZUesrnO">
-    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B8doCjnM5D5fN7UCeg72-1" value="Equip" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-2" value="Engage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-3" value="Educate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-4" value="Earn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="40" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-5" value="Hardware" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="550" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-6" value="Integration" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="259" width="550" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-7" value="Software" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-8" value="Data" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="479" width="550" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-9" value="NFR" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="800" y="210" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-11" value="Security" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="239" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-12" value="Privacy/Consent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="279" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-13" value="Legal/Liability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="319" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-14" value="Accessibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="359" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-15" value="Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="399" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-16" value="Personalization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="439" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8doCjnM5D5fN7UCeg72-17" value="Extensibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="479" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
